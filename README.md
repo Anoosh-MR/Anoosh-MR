@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/900/0*UqGyYmWCRQnjLzSk.jpg)]()
+[![MasterHead](https://ucarecdn.com/5178c222-be06-4d26-b1ac-482837a99976/mernimage.png)]()
 <h1 align="center">Hi 👋, I'm Anoosh MR</h1>
 <h3 align="center">A passionate MERN Stack developer from kerala,India</h3>
 <img align="right" alt="Coding" width="400" src="https://ucarecdn.com/c13a69ce-e6f9-45e3-9254-9e710a1acb3f/CODING.gif"
