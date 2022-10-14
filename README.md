@@ -1,4 +1,4 @@
-[MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png)]()
+[![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png)](https://github.com/Anoosh-MR)
 <h1 align="center">Hi 👋, I'm Anoosh MR</h1>
 <h3 align="center">A passionate MERN Stack developer from kerala,India</h3>
 <img align="right" alt="Coding" width="400" src="https://ucarecdn.com/c13a69ce-e6f9-45e3-9254-9e710a1acb3f/CODING.gif">
