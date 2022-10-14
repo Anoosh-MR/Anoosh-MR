@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/anoosh_mr" target="blank"><img src="https://img.shields.io/twitter/follow/anoosh_mr?logo=twitter&style=for-the-badge" alt="anoosh_mr" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://anoosh-mr.github.io/Personal-website/](https://anoosh-mr.github.io/Personal-website/)
+- 👨‍💻 All of my projects are available at [https://github.com/Anoosh-MR/Anoosh-MR](https://anoosh-mr.github.io/Personal-website/)
 
 - 💬 Ask me about **react,mongoDB,express,node**
 
