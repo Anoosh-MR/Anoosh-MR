@@ -1,5 +1,5 @@
 # 💫 About Me:
-Iam currently working at @deepnetsoft-solutions
+I am currently working as a software engineer at @deepnetsoft-solutions.
 
 
 ## 🌐 Socials:
